@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BEER ADVISER</string>
+    <string name="find_beer">FIND BEER</string>
+    <string name="beer_types">Beer types</string>
+</resources>
