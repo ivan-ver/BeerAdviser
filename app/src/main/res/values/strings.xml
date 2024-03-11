@@ -2,4 +2,10 @@
     <string name="app_name">BEER ADVISER</string>
     <string name="find_beer">FIND BEER</string>
     <string name="beer_types">Beer types</string>
+    <string-array name="beer_color">
+        <item>Light</item>
+        <item>Amber</item>
+        <item>Brown</item>
+        <item>Dark</item>
+    </string-array>
 </resources>
